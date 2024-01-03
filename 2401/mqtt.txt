@@ -1,0 +1,20 @@
+actuator | ˈak(t)SHəˌwādər |
+noun
+a device that causes a machine or other device to operate: a computerized unit instructs the actuator how to move the tires.
+
+
+
+This book will provide you with examples in the following programming languages, which are extremely popular in IoT, web applications, and mobile apps: Python, Java, HTML 5, JavaScript, Node.js, and Swift 3. You will control a drone, interact with sensors, control home automation, and interact with actuators by exchanging MQTT messages with the different programming languages and client libraries.
+
+
+raspberry | BrE ˈrɑːzb(ə)ri, AmE ˈræzˌbɛri |
+noun
+① (fruit) 山莓 shānméi
+▸ raspberry jam/ice-cream
+山莓酱/冰激凌
+② (plant) 悬钩子属植物 xuángōuzishǔ zhíwù
+▸ a raspberry cane/bush
+一株山莓/悬钩子灌木
+③ informal (rude noise) 呸声 pēi shēng
+▸ to blow a raspberry
+呸了一声
